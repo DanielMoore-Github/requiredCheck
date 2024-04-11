@@ -1,1 +1,1 @@
-A pointless file to modify for pushing changes.
+A pointless file to modify in order to push changes.
